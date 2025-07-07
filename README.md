@@ -11,6 +11,7 @@ A simple Python-based command-line tool to test your internet speed (Download, U
 
 ```bash
 python speed_test.py
+```
 
 ## Example Output
 
