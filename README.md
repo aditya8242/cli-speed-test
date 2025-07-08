@@ -80,3 +80,4 @@ Feel free to fork or suggest features via issues. Contributions welcome.
 
 ## 👨‍💻 Built by Aditya — because “trusting your ISP” isn't a debugging strategy.
 
+## Disclaimer - This project is a "Vibe coding" project.
