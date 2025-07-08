@@ -1,0 +1,32 @@
+Traceback (most recent call last):
+  File "/home/aditya/Desktop/Work/cli-speed-test/speed_test.py", line 1, in <module>
+    import speedtest
+ModuleNotFoundError: No module named 'speedtest'
+Traceback (most recent call last):
+  File "/home/aditya/Desktop/Work/cli-speed-test/speed_test.py", line 1, in <module>
+    import speedtest
+ModuleNotFoundError: No module named 'speedtest'
+Traceback (most recent call last):
+  File "/home/aditya/Desktop/Work/cli-speed-test/speed_test.py", line 1, in <module>
+    import speedtest
+ModuleNotFoundError: No module named 'speedtest'
+Traceback (most recent call last):
+  File "/home/aditya/Desktop/Work/cli-speed-test/speed_test.py", line 1, in <module>
+    import speedtest
+ModuleNotFoundError: No module named 'speedtest'
+[2025-07-07 15:00:40]
+Ping: 91.91 ms
+Download: 4.06 Mbps
+Upload: 1.71 Mbps
+[2025-07-07 15:02:39]
+Ping: 184.04 ms
+Download: 1.57 Mbps
+Upload: 2.05 Mbps
+[2025-07-07 15:04:37]
+Ping: 147.07 ms
+Download: 1.81 Mbps
+Upload: 1.96 Mbps
+[2025-07-07 15:07:18]
+Ping: 407.38 ms
+Download: 2.34 Mbps
+Upload: 2.11 Mbps
