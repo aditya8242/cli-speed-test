@@ -3,4 +3,5 @@ __pycache__/
 *.pyc
 speed_log.csv
 .env
+speedtest.log
 
